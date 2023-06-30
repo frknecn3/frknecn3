@@ -1,6 +1,6 @@
 <h1> Hi There!</h1>
 
-My name is Furkan Ercan.
+My name is Furkan.
 
 I'm looking forward to be a front-end developer in the first place, I'll try to become full-stack developer in the future.
 
