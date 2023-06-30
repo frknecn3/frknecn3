@@ -6,8 +6,8 @@ I'm looking forward to be a front-end developer in the first place, I'll try to 
 
 I'm interested in many sides of programming, such as game development, web development etc.
 
-I'm currently learning React and Javascript.
+I'm currently learning React and Javascript. Casually learning C# as well.
 
-I can collaborate on everything.
+I can collaborate on everything and love teamwork.
 
 You can contact me via WhatsApp, Github, Discord or Steam. And if necessary, by phone.
