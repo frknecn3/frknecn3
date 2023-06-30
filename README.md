@@ -10,4 +10,4 @@ I'm currently learning React and Javascript.
 
 I can collaborate on everything.
 
-You can contact me via WhatsApp, Github, Discord or Steam.
+You can contact me via WhatsApp, Github, Discord or Steam. And if necessary, by phone.
