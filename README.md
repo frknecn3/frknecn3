@@ -13,5 +13,7 @@ I can collaborate on everything and love teamwork.
 You can contact me via WhatsApp, Github, Discord or Steam. And if necessary, by phone.
 
 Phone No: +90 551 641 68 86
+
 Discord: ultraviol3t
+
 [Steam](www.steamcommunity.com/id/grobdeland)
