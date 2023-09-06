@@ -10,7 +10,9 @@ I'm currently learning React and Javascript. Casually learning C# as well.
 
 I can collaborate on everything and love teamwork.
 
+
 <h3>Contact</h3>
+
 
 You can contact me via WhatsApp, Github, Discord or Steam. And if necessary, by phone.
 
