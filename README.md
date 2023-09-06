@@ -2,7 +2,7 @@
 
 My name is Furkan.
 
-I'm looking forward to be a front-end developer in the first place, I'll aim to become a full-stack developer in the future.
+I'm looking forward to be a front-end developer in the first place, aiming to become a full-stack developer in the future.
 
 I'm interested in many sides of programming, such as video game programming, web development etc.
 
@@ -10,6 +10,7 @@ I'm currently learning React and Javascript. Casually learning C# as well.
 
 I can collaborate on everything and love teamwork.
 
+My style of thinking is "No man has ever walked without stumbling. None ever ran without falling."
 
 <h3>Contact</h3>
 
