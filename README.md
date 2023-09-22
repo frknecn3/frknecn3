@@ -10,7 +10,7 @@ I'm currently learning React and Javascript. Casually learning C# as well.
 
 I can collaborate on everything and love teamwork.
 
-My style of thinking is that "No man has ever walked without stumbling. None ever ran without falling."
+My style of thinking is that "Nobody ever walked without stumbling, nobody ever ran without falling." So, whenever I come across a problem, I don't give up and solve it no matter how hard it is.
 
 <h3>Contact</h3>
 
