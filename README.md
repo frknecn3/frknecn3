@@ -2,7 +2,7 @@
 
 My name is Furkan.
 
-I'm looking forward to be a front-end developer in the first place, aiming to become a full-stack developer in the future.
+I'm currently a Front-end Developer aiming to become a Full-stack Developer in the future.
 
 I'm interested in many sides of programming, such as video game programming, web development etc.
 
