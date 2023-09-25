@@ -6,16 +6,16 @@ I'm currently a Front-end Developer aiming to become a Full-stack Developer in t
 
 I'm interested in many sides of programming, such as video game programming, web development etc.
 
-I'm currently learning React and Javascript. Casually learning C# as well.
+I use HTML, CSS, JS, React.js and TypeScript in my projects. As of now I am casually learning C# as well.
 
-I can collaborate on everything and love teamwork.
+I can collaborate on everything, love teamwork and absolutely adore products that come out of a well-organized team.
 
 My style of thinking is that "Nobody ever walked without stumbling, nobody ever ran without falling." So, whenever I come across a problem, I don't give up and solve it no matter how hard it is.
 
 <h3>Contact</h3>
 
 
-You can contact me via WhatsApp, Github, Discord or Steam. And if necessary, by phone.
+You can contact me via WhatsApp, Github, Discord or Steam. And by phone if necessary.
 
 Phone No: +90 551 641 68 86
 
