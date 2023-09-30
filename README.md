@@ -1,6 +1,6 @@
 <h1> Hi There ! </h1>
 
-()[logo.png]
+![My own logo, relating to my nickname of Ultraviolet](logo.png)
 
 My name is Furkan.
 
