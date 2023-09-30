@@ -13,7 +13,7 @@ My name is Furkan. <img src="logo.png" alt="My own logo, related to my nickname 
   
 </ul>
 
-
+I'm looking forward to meet & work with you.
 
 
 
