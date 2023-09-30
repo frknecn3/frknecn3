@@ -1,7 +1,7 @@
 <h1> Hi There ! </h1>
 
 
-My name is Furkan. <img src="logo.png" alt="My own logo, related to my nickname of Ultraviolet" width="10" height="15">
+My name is Furkan. <img src="logo.png" alt="My own logo, related to my nickname of Ultraviolet" width="10" height="10">
 
 <ul>
 
