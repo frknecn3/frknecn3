@@ -13,7 +13,8 @@ My name is Furkan. <img src="logo.png" alt="My own logo, related to my nickname 
   
 </ul>
 
-<a href="https://frknecn3-portfolio.netlify.app/">My Portfolio</a>
+<a href="https://frknecn3-portfolio.netlify.app">My Portfolio</a>
+<a href="https://linkedin.com/in/furkan-ercan-ultraviolet">My LinkedIn Profile</a>
 
 
 I'm looking forward to meet & work with you.
