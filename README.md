@@ -9,7 +9,7 @@ My name is Furkan. <img src="logo.png" alt="My own logo, related to my nickname 
   <li>👨‍💻 Interested in many sides of programming, mainly Web Development.</li>
   <li>📝I use HTML, CSS, JS, TypeScript, React.js and Next.js in my projects. As of now I am casually learning C# as well.</li>
   <li>🤝I can collaborate on everything, love teamwork and absolutely adore products that come out of a well-organized team.</li>
-  <li>💪 My style of thinking is that "Nobody ever walked without stumbling, nobody ever ran without falling." So, whenever I come across a problem, I don't give up and solve it no matter how hard it is.</li>
+  <li>💪 My style of thinking is that "Nobody has ever walked without stumbling, nobody has ever run without falling." So, whenever I come across a problem, I don't give up and solve it no matter how hard it is.</li>
   
 </ul>
 
