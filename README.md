@@ -29,10 +29,4 @@ I'm looking forward to meet & work with you.
 <h3>Contact</h3>
 
 
-You can contact me via WhatsApp, Github, Discord or Steam. And by phone if necessary.
-
-Phone No: +90 551 641 68 86
-
-Discord: ultraviol3t
-
-[Steam](www.steamcommunity.com/id/grobdeland)
+You can contact me via WhatsApp, Github, Discord or Steam. Please ask for contact info.
