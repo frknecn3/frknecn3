@@ -13,7 +13,6 @@ My name is Furkan. <img src="logo.png" alt="logo" width="10" height="10">
   
 </ul>
 
-<a href="https://vbv-portfolio.netlify.app">My Portfolio</a>
 <a href="https://linkedin.com/in/furkan-ercan-vbv">My LinkedIn Profile</a>
 
 
