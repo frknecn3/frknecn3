@@ -13,7 +13,7 @@ My name is Furkan. <img src="logo.png" alt="logo" width="10" height="10">
   
 </ul>
 
-<a href="https://linkedin.com/in/furkan-ercan-vbv">My LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/frknecn3">My LinkedIn Profile</a>
 
 
 I'm looking forward to meet & work with you.
