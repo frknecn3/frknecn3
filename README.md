@@ -28,4 +28,4 @@ I'm looking forward to meet & work with you.
 <h3>Contact</h3>
 
 
-You can contact me via WhatsApp, Github, Discord or Steam. Please ask for contact info.
+You can contact me via WhatsApp, Github or phone. Please ask for contact info and I'll gladly answer you.
